@@ -33,7 +33,7 @@ The anagram finder will find the anagram groups and print them on the standard o
 `cd` to the root directory and:
 
 ```
-$ ./run_tests.py
+$ ./run_tests.sh
 ```
 
 ## Design / components
